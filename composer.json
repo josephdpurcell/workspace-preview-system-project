@@ -21,7 +21,8 @@
         "drupal/relaxed": "^8.1.0",
         "drupal/diff": "^8.1.0",
         "drupal/workbench_moderation": "^8.1.0",
-        "drupal/trash": "^8.1.0"
+        "drupal/trash": "^8.1.0",
+        "josephdpurcell/workspace-preview-system": "dev-8.x-1.x"
     },
     "require-dev": {
         "behat/mink": "~1.6",
