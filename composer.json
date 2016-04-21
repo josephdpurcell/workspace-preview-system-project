@@ -15,13 +15,13 @@
         "cweagans/composer-patches": "~1.0",
         "drupal/core": "^8.1.0",
         "drush/drush": "dev-master",
-        "drupal/multiversion": "8.1.0",
-        "drupal/deploy": "8.1.0",
-        "drupal/workspace": "8.1.0",
-        "drupal/relaxed": "8.1.0",
-        "drupal/diff": "8.1.0",
-        "drupal/workbench_moderation": "8.1.0",
-        "drupal/trash": "8.1.0"
+        "drupal/multiversion": "^8.1.0",
+        "drupal/deploy": "^8.1.0",
+        "drupal/workspace": "^8.1.0",
+        "drupal/relaxed": "^8.1.0",
+        "drupal/diff": "^8.1.0",
+        "drupal/workbench_moderation": "^8.1.0",
+        "drupal/trash": "^8.1.0"
     },
     "require-dev": {
         "behat/mink": "~1.6",
