@@ -1,5 +1,5 @@
 {
-    "name": "josephdpurcell/workspace-preview-system-project",
+    "name": "josephdpurcell/workspace_preview_system-project",
     "description": "Get started with the Workspace Preview System",
     "type": "project",
     "license": "GPL-2.0+",
@@ -22,7 +22,7 @@
         "drupal/diff": "^8.1.0",
         "drupal/workbench_moderation": "^8.1.0",
         "drupal/trash": "^8.1.0",
-        "josephdpurcell/workspace-preview-system": "dev-8.x-1.x"
+        "josephdpurcell/workspace_preview_system": "dev-8.x-1.x"
     },
     "require-dev": {
         "behat/mink": "~1.6",
