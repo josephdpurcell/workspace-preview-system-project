@@ -28,6 +28,5 @@ This is a distro that shows the use of the [Workspace Preview System](https://ww
 
 # TODO
 
-- [ ] Install a theme on install.
 - [ ] Setup a content type as moderated on install.
 - [ ] Create example content on install?
