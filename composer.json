@@ -16,6 +16,8 @@
         "drupal/core": "8.1.1",
         "drush/drush": "dev-master",
         "drupal/multiversion": "dev-8.x-1.x",
+        "drupal/workspace": "~8.1",
+        "drupal/workbench_moderation": "~8.1",
         "josephdpurcell/workspace_preview_system": "dev-8.x-1.x"
     },
     "require-dev": {
