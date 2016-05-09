@@ -26,7 +26,3 @@ This is a distro that shows the use of the [Workspace Preview System](https://ww
 
     go to `/install.php`.
 
-# TODO
-
-- [ ] Setup a content type as moderated on install.
-- [ ] Create example content on install?
