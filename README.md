@@ -1,10 +1,10 @@
 # Workspace Preview System
 
-This is a distro that shows the use of the [Workspace Preview System](https://www.drupal.org/node/2675680).
+This is a distro that shows the use of the [Workspace Preview System](https://www.drupal.org/node/2675680) in Drupal.
 
 # Requirements
 
-1. Composer
+1. [Composer](https://getcomposer.org/)
 
 # Getting Started
 
@@ -25,4 +25,3 @@ This is a distro that shows the use of the [Workspace Preview System](https://ww
     or
 
     go to `/install.php`.
-
